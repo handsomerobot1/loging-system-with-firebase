@@ -10,4 +10,9 @@ Android Studio
 🚀 Features
 User Registration (Email & Password)
 User Login
+<p align="center">
+  <img src="ss.jpg" alt="App Screenshot" width="250"/>
+</p>
+
+
 
